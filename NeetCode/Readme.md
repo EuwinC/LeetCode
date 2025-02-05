@@ -1,88 +1,7 @@
 Array
 
- 
-
-Two Pointer
-
- 
-
-Sliding Window
-
- 
-
-Stack
-
- 
-
-Binary Search
-
- 
-
- 
-
-Linked List
-
- 
-
-Trees
-
- 
-
-Tries
-
- 
-
- 
-
- 
-
-Heap / Priority Queue
-
- 
-
-Backtracking
-
- 
-
-Graphs
-
- 
-
-Advanced Graphs
-
- 
-
- 
-
-1-D Dynamic Programming
-
- 
-
-2-D Dynamic Programming
-
- 
-
-Greedy
-
- 
-
-Intervals
-
- 
-
- 
-
-Math & Geometry
-
- 
-
-Bit Manipulation
-
- 
-
-
-
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Contains Duplicate | https://leetcode.com/problems/contains-duplicate/ | Easy |
 | Valid Anagram | https://leetcode.com/problems/valid-anagram/ | Easy |
 | Two Sum | https://leetcode.com/problems/two-sum/ | Easy |
@@ -92,14 +11,20 @@ Bit Manipulation
 | Valid Sudoku | https://leetcode.com/problems/valid-sudoku/ | Medium |
 | Encode and Decode Strings | https://leetcode.com/accounts/login/?next=/problems/encode-and-decode-strings/ | Medium |
 
+
+Two Pointer
+
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Valid Palindrome | https://leetcode.com/problems/valid-palindrome/ | Easy |
 | Two Sum II | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | Medium |
 | 3Sum | https://leetcode.com/problems/3sum/ | Medium |
 | Container with Most Water | https://leetcode.com/problems/container-with-most-water/ | Medium |
 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water/ | Hard |
 
+Sliding Window
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Best Time to Buy & Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | Easy |
 | Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters/ | Medium |
 | Longest Repeating Character Replacement | https://leetcode.com/problems/longest-repeating-character-replacement/ | Medium |
@@ -108,7 +33,10 @@ Bit Manipulation
 | Sliding Window Maximum | https://leetcode.com/problems/sliding-window-maximum/ | Hard |
 |  |  |  |
 
+
+Stack
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/ | Easy |
 | Min Stack | https://leetcode.com/problems/min-stack/ | Medium |
 | Evaluate Reverse Polish Notation | https://leetcode.com/problems/evaluate-reverse-polish-notation/ | Medium |
@@ -117,7 +45,9 @@ Bit Manipulation
 | Car Fleet | https://leetcode.com/problems/car-fleet/ | Medium |
 | Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram/ | Hard |
 
+Binary Search
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Binary Search | https://leetcode.com/problems/binary-search/ | Easy |
 | Search a 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix/ | Medium |
 | Koko Eating Bananas | https://leetcode.com/problems/koko-eating-bananas/ | Medium |
@@ -126,7 +56,9 @@ Bit Manipulation
 | Time Based Key-Value Store | https://leetcode.com/problems/time-based-key-value-store/ | Medium |
 | Find Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays/ | Hard |
 
+Linked List
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | Easy |
 | Merge Two Linked Lists | https://leetcode.com/problems/merge-two-sorted-lists/ | Easy |
 | Reorder List | https://leetcode.com/problems/reorder-list/ | Medium |
@@ -139,7 +71,9 @@ Bit Manipulation
 | Merge K Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists/ | Hard |
 | Reverse Nodes in K-Group | https://leetcode.com/problems/reverse-nodes-in-k-group/ | Hard |
 
+Trees
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Invert Binary Tree | https://leetcode.com/problems/invert-binary-tree/ | Easy |
 | Maximum Depth of Binary Tree | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | Easy |
 | Diameter of a Binary Tree | https://leetcode.com/problems/diameter-of-binary-tree/ | Easy |
@@ -156,12 +90,16 @@ Bit Manipulation
 | Binary Tree Max Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | Hard |
 | Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ | Hard |
 
+Tries
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Implement Trie | https://leetcode.com/problems/implement-trie-prefix-tree/ | Medium |
 | Design Add and Search Word Data Structure | https://leetcode.com/problems/design-add-and-search-words-data-structure/ | Medium |
 | Word Search II | https://leetcode.com/problems/word-search-ii/ | Hard |
 
+Heap / Priority Queue
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Kth Largest Element in a Stream | https://leetcode.com/problems/kth-largest-element-in-a-stream/ | Easy |
 | Last Stone Weight | https://leetcode.com/problems/last-stone-weight/ | Easy |
 | K Closest Points to Origin | https://leetcode.com/problems/k-closest-points-to-origin/ | Medium |
@@ -170,7 +108,9 @@ Bit Manipulation
 | Design Twitter | https://leetcode.com/problems/design-twitter/ | Medium |
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream/ | Hard |
 
+Backtracking
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Subsets | https://leetcode.com/problems/subsets/ | Medium |
 | Combination Sum | https://leetcode.com/problems/combination-sum/ | Medium |
 | Permutations | https://leetcode.com/problems/permutations/ | Medium |
@@ -181,7 +121,9 @@ Bit Manipulation
 | Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number/ | Medium |
 | N-Queens | https://leetcode.com/problems/n-queens/ | Hard |
 
+Graphs
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Number of Islands | https://leetcode.com/problems/number-of-islands/ | Medium |
 | Clone Graph | https://leetcode.com/problems/clone-graph/ | Medium |
 | Max Area of Island | https://leetcode.com/problems/max-area-of-island/ | Medium |
@@ -197,7 +139,9 @@ Bit Manipulation
 | Word Ladder | https://leetcode.com/problems/word-ladder/ | Hard |
 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence/ | Hard |
 
+Advanced Graphs
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Reconstruct Itinerary | https://leetcode.com/problems/reconstruct-itinerary/ | Hard |
 | Min Cost to Connect all Points | https://leetcode.com/problems/min-cost-to-connect-all-points/ | Medium |
 | Network Delay Time | https://leetcode.com/problems/network-delay-time/ | Medium |
@@ -205,7 +149,9 @@ Bit Manipulation
 | Alien Dictionary | https://leetcode.com/problems/alien-dictionary/ | Hard |
 | Cheapest Flights with K Stops | https://leetcode.com/problems/cheapest-flights-within-k-stops/ | Medium |
 
+1-D Dynamic Programming
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Climbing Stairs | https://leetcode.com/problems/climbing-stairs/ | Easy |
 | Min Cost Climbing Stairs | https://leetcode.com/problems/min-cost-climbing-stairs/ | Easy |
 | House Robber | https://leetcode.com/problems/house-robber/ | Medium |
@@ -219,7 +165,9 @@ Bit Manipulation
 | Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence/ | Medium |
 | Partition Equal Subset Sum | https://leetcode.com/problems/partition-equal-subset-sum/ | Medium |
 
+2-D Dynamic Programming
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Unique Paths | https://leetcode.com/problems/unique-paths/ | Medium |
 | Longest Common Subsequence | https://leetcode.com/problems/longest-common-subsequence/ | Medium |
 | Best Time to Buy/Sell Stock With Cooldown | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/ | Medium |
@@ -232,7 +180,9 @@ Bit Manipulation
 | Burst Balloons | https://leetcode.com/problems/burst-balloons/ | Hard |
 | Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching/ | Hard |
 
+Greedy
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Maximum Subarray | https://leetcode.com/problems/maximum-subarray/ | Medium |
 | Jump Game | https://leetcode.com/problems/jump-game/ | Medium |
 | Jump Game II | https://leetcode.com/problems/jump-game-ii/ | Medium |
@@ -242,7 +192,9 @@ Bit Manipulation
 | Partition Labels | https://leetcode.com/problems/partition-labels/ | Medium |
 | Valid Parenthesis String | https://leetcode.com/problems/valid-parenthesis-string/ | Medium |
 
+Intervals
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Insert Interval | https://leetcode.com/problems/insert-interval/ | Medium |
 | Merge Intervals | https://leetcode.com/problems/merge-intervals/ | Medium |
 | Non-Overlapping Intervals | https://leetcode.com/problems/non-overlapping-intervals/ | Medium |
@@ -250,7 +202,9 @@ Bit Manipulation
 | Meeting Rooms II | https://leetcode.com/problems/meeting-rooms-ii/ | Medium |
 | Minimum Interval to Include Each Query | https://leetcode.com/problems/minimum-interval-to-include-each-query/ | Hard |
 
+Math & Geometry
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Rotate Image | https://leetcode.com/problems/rotate-image/ | Medium |
 | Spiral Matrix | https://leetcode.com/problems/spiral-matrix/ | Medium |
 | Set Matrix Zeroes | https://leetcode.com/problems/set-matrix-zeroes/ | Medium |
@@ -260,7 +214,9 @@ Bit Manipulation
 | Multiply Strings | https://leetcode.com/problems/multiply-strings/ | Medium |
 | Detect Squares | https://leetcode.com/problems/detect-squares/ | Medium |
 
+Bit Manipulation
 | Name | Link | Difficultly |
+| --- | --- | --- |
 | Single Number | https://leetcode.com/problems/single-number/ | Easy |
 | Number of 1 Bits | https://leetcode.com/problems/number-of-1-bits/ | Easy |
 | Counting Bits | https://leetcode.com/problems/counting-bits/ | Easy |
