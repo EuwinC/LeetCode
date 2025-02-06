@@ -160,9 +160,7 @@
 
 | Name | Link | Difficultly |
 | --- | --- | --- |
-| [Climbing Stairs](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/1D_Dynamic_Programming
-
-/Climbing_Stairs) | https://leetcode.com/problems/climbing-stairs/ | Easy |
+| [Climbing Stairs](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/1D_Dynamic_Programming/Climbing_Stairs) | https://leetcode.com/problems/climbing-stairs/ | Easy |
 | [Min Cost Climbing Stairs](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/1D_Dynamic_Programming/Min_Cost_Climbing_Stairs) | https://leetcode.com/problems/min-cost-climbing-stairs/ | Easy |
 | [House Robber](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/1D_Dynamic_Programming/House_Robber) | https://leetcode.com/problems/house-robber/ | Medium |
 | [House Robber II](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/1D_Dynamic_Programming/House_Robber_II) | https://leetcode.com/problems/house-robber-ii/ | Medium |
