@@ -4,7 +4,7 @@ Solution 1 groups anagrams by sorting each string’s characters to create a uni
 |Complexity|Big O|
 |--|--|
 |Time|O(N*KlogK)|
-|Space|O(N)|
+|Space|O(N*K)|
 
 Solution 2:
 Solution 2 groups anagrams by creating a frequency array for each string’s characters, converting it to a tuple, and using that as the hashmap key. Since anagrams have identical character counts, this works efficiently without sorting. For N strings of maximum length K, it takes O(K) per string to build the frequency array, resulting in O(N * K) time complexity. Space complexity is O(N * K) for storing the strings, with a small constant overhead for the frequency tuples.
