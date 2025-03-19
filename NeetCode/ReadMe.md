@@ -129,20 +129,20 @@
 
 | Name | Link | Difficultly |
 | --- | --- | --- |
-| [Number of Islands](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Number_of_Islands) | https://leetcode.com/problems/number-of-islands/ | Medium |
-| [Clone Graph](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Clone_Graph) | https://leetcode.com/problems/clone-graph/ | Medium |
-| [Max Area of Island](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Max_Area_of_Island) | https://leetcode.com/problems/max-area-of-island/ | Medium |
-| [Pacific Atlantic Waterflow](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Pacific_Atlantic_Waterflow) | https://leetcode.com/problems/pacific-atlantic-water-flow/ | Medium |
-| [Surrounded Regions](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Surrounded_Regions) | https://leetcode.com/problems/surrounded-regions/ | Medium |
-| [Rotting Oranges](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Rotting_Oranges) | https://leetcode.com/problems/rotting-oranges/ | Medium |
-| [Walls and Gates](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Walls_and_Gates) | https://leetcode.com/problems/walls-and-gates/ | Medium |
-| [Course Schedule](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Course_Schedule) | https://leetcode.com/problems/course-schedule/ | Medium |
-| [Course Schedule II](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Course_Schedule_II) | https://leetcode.com/problems/course-schedule-ii/ | Medium |
-| [Redundant Connection](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Redundant_Connection) | https://leetcode.com/problems/redundant-connection/ | Medium |
-| [Number of Connected Components in Graph](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Number_of_Connected_Components_in_Graph) | https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/ | Medium |
-| [Graph Valid Tree](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Graph_Valid_Tree) | https://leetcode.com/problems/graph-valid-tree/ | Medium |
-| [Word Ladder](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Word_Ladder) | https://leetcode.com/problems/word-ladder/ | Hard |
-| [Longest Consecutive Sequence](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graph/Longest_Consecutive_Sequence) | https://leetcode.com/problems/longest-consecutive-sequence/ | Hard |
+| [Number of Islands](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Number_of_Islands) | https://leetcode.com/problems/number-of-islands/ | Medium |
+| [Clone Graph](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Clone_Graph) | https://leetcode.com/problems/clone-graph/ | Medium |
+| [Max Area of Island](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Max_Area_of_Island) | https://leetcode.com/problems/max-area-of-island/ | Medium |
+| [Pacific Atlantic Waterflow](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Pacific_Atlantic_Waterflow) | https://leetcode.com/problems/pacific-atlantic-water-flow/ | Medium |
+| [Surrounded Regions](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Surrounded_Regions) | https://leetcode.com/problems/surrounded-regions/ | Medium |
+| [Rotting Oranges](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Rotting_Oranges) | https://leetcode.com/problems/rotting-oranges/ | Medium |
+| [Walls and Gates](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Walls_and_Gates) | https://leetcode.com/problems/walls-and-gates/ | Medium |
+| [Course Schedule](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Course_Schedule) | https://leetcode.com/problems/course-schedule/ | Medium |
+| [Course Schedule II](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Course_Schedule_II) | https://leetcode.com/problems/course-schedule-ii/ | Medium |
+| [Redundant Connection](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Redundant_Connection) | https://leetcode.com/problems/redundant-connection/ | Medium |
+| [Number of Connected Components in Graph](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Number_of_Connected_Components_in_Graph) | https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/ | Medium |
+| [Graph Valid Tree](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Graph_Valid_Tree) | https://leetcode.com/problems/graph-valid-tree/ | Medium |
+| [Word Ladder](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Word_Ladder) | https://leetcode.com/problems/word-ladder/ | Hard |
+| [Longest Consecutive Sequence](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Graphs/Longest_Consecutive_Sequence) | https://leetcode.com/problems/longest-consecutive-sequence/ | Hard |
 
  
 [Advanced Graphs](https://github.com/EuwinC/LeetCode/tree/main/NeetCode/Advanced_Graphs)
